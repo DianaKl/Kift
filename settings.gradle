@@ -1,1 +1,1 @@
-include ':com.visa.prototypes.kift', ':kift-keyboardthatgifts'
+include ':com.visa.prototypes.kift', ':kift-keyboardthatgifts', ':kift-keyboardview'
